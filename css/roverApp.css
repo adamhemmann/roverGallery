@@ -1,17 +1,19 @@
 #roverName {
-    width: 150px;
+  width: 150px;
 }
 
 #cameraSelect {
-    width: 100px;
+  width: 100px;
 }
 
 #imageBackdrop {
-    background-color: #717171;
+  background-color: #717171;
 }
 
 img {
-    max-width: 700px;
+  max-width: 700px;
 }
 
-.mySlides {display:none;}
+.mySlides {
+  display: none;
+}
